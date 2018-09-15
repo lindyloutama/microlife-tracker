@@ -1,3 +1,5 @@
-const  = (req, res) => res.send({ message: 'Hello World!' });
+const express = require('express');
 
-module.exports = helloWorld;
+const app = express();
+
+app.listen(3000, () => console.log('Example app listening on port 3000!'));
