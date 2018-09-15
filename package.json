@@ -18,7 +18,7 @@
     "nodemon": "^1.18.4"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest --runInBand"
   },
   "author": "",
   "license": "ISC",
