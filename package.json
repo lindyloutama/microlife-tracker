@@ -1,9 +1,9 @@
 {
   "name": "microlife-tracker",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.16.3",
     "jest": "^23.6.0"
   },
   "devDependencies": {
@@ -19,5 +19,14 @@
     "test": "jest"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindyloutama/microlife-tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lindyloutama/microlife-tracker/issues"
+  },
+  "homepage": "https://github.com/lindyloutama/microlife-tracker#readme",
+  "description": ""
 }
